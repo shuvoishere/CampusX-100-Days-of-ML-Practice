@@ -1,0 +1,2 @@
+There are lots of resources available in the web for learning Machine Learning. But, those are not structured properly for beginners. So, here comes CampusX, an initiative of Nitish Kumar Singh will help you to understand basic concept of machine learning and practice end to end project. His famous "100 Days of Machine Learning" is available on youtube channel named "CampusX". I tried to practice with those datasets shown in the videos and stored the whole file in .ipynb format.
+Thanks for visiting my Repository
